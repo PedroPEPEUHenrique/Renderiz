@@ -2,7 +2,7 @@
 
 Framework Python para renderização de alta performance em **Web** e **Mobile**.
 
-Crie interfaces com componentes reutilizáveis, Virtual DOM, lazy loading, animações e transições — tudo em Python puro.
+Crie interfaces com componentes reutilizáveis, Virtual DOM, lazy loading, animações e transições; tudo em Python puro.
 
 ---
 
